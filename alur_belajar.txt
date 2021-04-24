@@ -1,0 +1,7 @@
+ALUR BELAJAR WEB PROGRAMMING
+
+- Media Penyimpanan/Version Control System (GITHUB/GIT)
+  (simpan sebagai index.html) sehingga bisa dibuka secara online
+- HTML
+- CSS
+- Javascript
