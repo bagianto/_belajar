@@ -1,6 +1,6 @@
 ALUR BELAJAR WEB PROGRAMMING
 
-- Media Penyimpanan/Version Control System (GITHUB/GIT)
+- Version Control System/VCS (GITHUB/GIT): sistem yang mengelola perubahan dari sebuah dokumen atau kumpulan informasi
   (simpan sebagai index.html) sehingga bisa dibuka secara online
 - HTML
 - CSS
